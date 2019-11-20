@@ -24,8 +24,8 @@ title: Blog d'Irène
 email: irene.ravelonarivo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-  Hello World ! Dans ce blog je suis ravie de vous partager les petites astuces ou autres qui m'ont permis de solutionner les soucis
-  que j'ai rencontrés dans mon quotidien de développeuse web et de vous faire ainsi gagner un peu de temps. Et si vous n'y trouvez pas votre bonheur, n'oubliez pas que Google est votre ami ;) !
+  Hello World ! Dans ce blog je suis ravie de vous partager astuces, tutoriels et autres qui m'ont été utiles et qui pourraient vous être utiles dans votre
+ quotidien de développeur.se web . Et si vous n'y trouvez pas votre bonheur, n'oubliez pas que Google est votre ami ;) !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: irene_ravel
