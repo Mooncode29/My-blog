@@ -17,7 +17,7 @@ Une fois connecté sur Mysql Workbench :
      * modifier l'URL en saisissant la nouvelle. Par exemple `http://localhost:8080` 
      * Cliquer sur `Apply` en bas à droite . Effectuer la même chose pour `siteurl` et `homeurl`    
      
-     Vous pouvez maintenant relancer votre serveur et vous connecter à vous connecter sur `/wp-login.php`  
+     Vous pouvez maintenant relancer votre serveur et  vous connecter sur `/wp-login.php`  
 
 * Option 2 :  Changer l'URL dans le fichier `wp-config.php` de votre projet.  
 Ouvrir le fichier wp-config.php et ajouter les lignes de codes suivantes :   
